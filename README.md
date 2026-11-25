@@ -15,7 +15,8 @@ joke to `entry.txt`:
 > I asked Dad why he brings a ladder to dinner — he said someone has to raise the steaks.
 
 One joke, one line — a dinner-table dad pun, setup and punchline in a
-single breath.
+single breath. Dad, a ladder, dinner, and one double pun: the steaks
+get raised, and so do the stakes.
 
 ## How to run
 

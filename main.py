@@ -10,6 +10,8 @@ from pathlib import Path
 
 # One scene, one turn: Dad brings a ladder to the dinner table, and the
 # punchline is a double pun — raise the steaks / raise the stakes.
+# The line is 87 characters, one sentence, and it never explains itself:
+# the groan is the whole joke.
 JOKE = "I asked Dad why he brings a ladder to dinner \u2014 he said someone has to raise the steaks."
 
 
